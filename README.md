@@ -1,2 +1,2 @@
-# mi-pagina-wad
+# mi-pagina-wed
 mi primera pagina 
